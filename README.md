@@ -3,7 +3,7 @@ It's great to see you here.
 - 🎓 I’m currently learning for Bachelor of Software Engineering (Honours) in RMIT University Vietnam.
 - 👀 My hobbies are about food&drink, travelling and landscape photography.
 
-This Git is a little world where I publish pieces of works that I've done through my uni life.
+This Git is a little world to publish every piece of works that I've done through my uni life.
 Enjoy!
 
 <!---
