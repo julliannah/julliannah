@@ -1,7 +1,8 @@
 It's great to see you here.
-- 👋 My name is Nhàn Nguyễn but you can call me @Julliannah.
-- 🎓 I’m currently learning for Bachelor of Software Engineering (Honours) in RMIT University Vietnam.
-- 👀 My hobbies are about food&drink, travelling and landscape photography.
+- 👋 My name is Nhàn Nguyễn but you can call me @Nancy.
+- 🎓 **Bachelor of Software Engineering (Honours)** in RMIT University Vietnam.
+- 💻 Currently, I'm working for National Australia Bank (NAB) as a **Quality Engineer (QE)**.
+- 👀 My hobbies are about badminton, food&drink, travelling and landscape photography.
 
 This Git is a little world to publish every piece of works that I've done through my uni life.
 Enjoy!
